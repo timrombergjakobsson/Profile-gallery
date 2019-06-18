@@ -1,0 +1,17 @@
+header {
+    padding: 2.5em 0 3.5em;
+    text-align: center;
+    background: $color-header;
+    color: $color-background;
+}
+
+.site-main__headline {
+    font-size: 3.875em;
+    font-family: 'Paytone One', sans-serif;
+    font-weight: normal;
+    line-height: 1.15em;
+    display: inline-block;
+    margin: 0 auto;
+    padding: .625rem;
+}
+
